@@ -1,9 +1,9 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Mr Lu Blog
+SEOTitle: 鲁先生的博客 | Mr LU Blog
 header-img: img/home-bg.jpg
 email: 740051641@qq.com
-description: ""
+description: "世界那么大，多学多看看"
 keyword: ""
 url: "http://growing-mr-lu.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
